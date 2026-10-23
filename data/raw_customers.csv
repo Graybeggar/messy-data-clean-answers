@@ -1,0 +1,9 @@
+customer_id,full_name,email,city
+1,"Ada Green",ada.green@example.com,Austin
+2,"  marcus reed",Marcus.Reed@example.com,Denver
+3,"Priya Nair",priya.nair@example.com,Seattle
+4,"Tom Becker",tom.becker@example.com,Chicago
+5,"priya nair",PRIYA.NAIR@example.com,Seattle
+6,"June Park",june.park@example.com,Portland
+7,"Omar Haddad",omar.haddad@example.com,Denver
+8,"Lena Vogel","",Austin

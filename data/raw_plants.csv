@@ -1,0 +1,13 @@
+plant_id,plant_name,category,price,stock_qty
+1," Monstera Deliciosa ",Tropical,29.99,14
+2,"monstera deliciosa","tropical ",$29.99,6
+3,"Golden Pothos",Vine,12.50,40
+4,"golden pothos ",vines,12.50,
+5,"Boston Fern",FERNS,18.00,25
+6,Echeveria,succulents,8.99,60
+7,"String of Pearls",Succulent,14.25,0
+8,"Snake Plant",Tropical,22.00,18
+9,"Peace Lily",Flowering,,12
+10,"Spider Plant",vine,11.00,33
+11,"ZZ Plant",TROPICAL,24.99,9
+12,"Burro's Tail",Succulent,9.50,47
